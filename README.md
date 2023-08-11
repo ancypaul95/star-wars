@@ -28,7 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Clone the project:
 
-`git clone --depth=1 https://github.com/react-boilerplate/react-boilerplate.git <YOUR_PROJECT_NAME>`
+`git clone https://github.com/ancypaul95/star-wars.git`
 
 Move into the cloned repository:
 
